@@ -10,15 +10,35 @@
 ******
 ## Skills:
 *Git, Githab
+
+
 *Jira, Confluence
+
+
 *Linux
+
+
 *Docker
+
+
 *Kubernetes
+
+
 *PostgreSQL
+
+
 *MongoDB
+
+
 *Postman
+
+
 *HTML/CSS
+
+
 *Python Basics
+
+
 
 ******
 ## Courses:
@@ -27,4 +47,6 @@
 ******
 ## Languages:
 *Russian - native
+
+
 *English - Pre-intermediate
